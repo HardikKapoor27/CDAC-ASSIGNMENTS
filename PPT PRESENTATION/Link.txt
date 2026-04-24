@@ -3,3 +3,13 @@ PPT Link : https://docs.google.com/presentation/d/1uY674m1T1Tradss11QcGaLh3tocYc
 upload link : https://cf.cdacb.in/index.php/s/tBEcdZ1hrAsT0FL
 
 ChatGpt Link : https://chatgpt.com/share/69ea05c9-dd40-8321-9b96-255cf0981820
+
+Uploading files with names like “presentationfinal”, “WORKPLACEppt-1” shows zero discipline and no respect for a structured process. This is not a casual environment.
+
+Fix this immediately.
+
+Required format:
+GroupNo_Batch_Topic.pptx
+Example: PGCPAC_08_EcommercePlatform.pptx
+
+Upload it again
